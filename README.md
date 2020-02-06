@@ -1,0 +1,2 @@
+# DNN-BasedFaceRecognition
+Recognizing or classifying a person’s face or an object from a digital image is of paramount importance, especially on mobile platforms, and in various emerging technologies, such as robotics, and cars with autonomous driving technologies. Face recognition is also typically employed by security systems for access control. This project aims at developing recognition systems with robustness to adversarial interventions, by utilizing state-of-the-art machine learning tools.
